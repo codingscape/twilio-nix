@@ -1,0 +1,12 @@
+{
+  "name": "twilio-packages",
+  "version": "1.0.0",
+  "description": "Ad-hoc pinned Nix packages for a Twilio Nix workspace",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jordan Mulcahey",
+  "license": "ISC",
+  "dependencies": {}
+}
