@@ -39,6 +39,8 @@ sh <(curl -L https://nixos.org/nix/install) --daemon
   ```
 
 - (_plain Linux or macOS_) [Install lorri and direnv](https://github.com/target/lorri#setup-on-other-platforms).
+- Setup `direnv`'s [shell hook](https://direnv.net/docs/hook.html) and/or install
+  a direnv plugin for your editor of choice.
 - (_Optional_) Create a `~/.config/git/ignore` file with these contents:
 
 ```git-config
