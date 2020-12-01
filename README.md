@@ -38,7 +38,17 @@ sh <(curl -L https://nixos.org/nix/install) --daemon
   }
   ```
 
-- (_plain Linux or macOS_)[Install lorri and direnv](https://github.com/target/lorri#setup-on-other-platforms).
+- (_plain Linux or macOS_) [Install lorri and direnv](https://github.com/target/lorri#setup-on-other-platforms).
+- (_Optional_) Create a `~/.config/git/ignore` file with these contents:
+
+```git-config
+.envrc
+shell.nix
+.log/
+```
+
+This will automatically ignore the files `twilio-nix` requires in project root
+directories.
 
 ## Usage
 
