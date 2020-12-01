@@ -79,3 +79,9 @@ import ../../shell.nix { extraPkgs = [
   dependencies, even if those dependencies would otherwise conflict.
 - Nix will automatically rebuild changed parts of the development environment;
   that is, anything listed in `shell.nix`.
+
+## Bugs
+
+- On macOS, `lorri` may occasionally ignore changed files. `pkill lorri` in a
+  terminal will cause it to restart (if started as a `launchd` service) and
+  respond to changed files again.
