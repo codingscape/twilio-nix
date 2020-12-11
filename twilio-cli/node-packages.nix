@@ -85,13 +85,13 @@ let
         sha512 = "yojzeEfmSxjjkAvMRj0KzspXlMjCfBzNRPkWw8ZwOSoNWoJn+OCS/m/S+yfV6BvAM4u2lTzX9Y5rCbrFIgkJLg==";
       };
     };
-    "@oclif/plugin-autocomplete-0.2.0" = {
+    "@oclif/plugin-autocomplete-0.2.1" = {
       name = "_at_oclif_slash_plugin-autocomplete";
       packageName = "@oclif/plugin-autocomplete";
-      version = "0.2.0";
+      version = "0.2.1";
       src = fetchurl {
-        url = "https://registry.npmjs.org/@oclif/plugin-autocomplete/-/plugin-autocomplete-0.2.0.tgz";
-        sha512 = "pHbaE2PH7d9lHjCgFrrQ+ZIwvY+7OAQaGoaANqDbicBNDK/Rszt4N4oGj22dJT7sCQ8a/3Eh942rjxYIq9Mi9Q==";
+        url = "https://registry.npmjs.org/@oclif/plugin-autocomplete/-/plugin-autocomplete-0.2.1.tgz";
+        sha512 = "EOcoh1x3auFg1a7NNVTT+hJ1PPih7Kg1it7WtG8oBgYKe+YD/bvHnX2QlXqi9S7H0XsQQMUb8hxbLP+XwQY/8Q==";
       };
     };
     "@oclif/plugin-help-2.2.3" = {
@@ -175,13 +175,13 @@ let
         sha512 = "XO6INPbZCxdprl+9qa/AAbFFOMzzwqYxpjPgLICrMD6C2FCw6qfJOPcBk6JqqPLSaZ/Qx87qn4rpPmPMwaAK6w==";
       };
     };
-    "@twilio/cli-core-5.12.0" = {
+    "@twilio/cli-core-5.14.0" = {
       name = "_at_twilio_slash_cli-core";
       packageName = "@twilio/cli-core";
-      version = "5.12.0";
+      version = "5.14.0";
       src = fetchurl {
-        url = "https://registry.npmjs.org/@twilio/cli-core/-/cli-core-5.12.0.tgz";
-        sha512 = "UUZOpwc1zVV0kh4LYKcgB4ux94xsjIPEgZBUL2Hps9oIA/E/NiWjOOISNM96BLbFgCOgBD+opUqOGeIXH0KpuA==";
+        url = "https://registry.npmjs.org/@twilio/cli-core/-/cli-core-5.14.0.tgz";
+        sha512 = "u1obNpoYuweWlHzS4/zW+0ns0wUwmDOhjKXyd257Embvfxnbvt7uAcb/NKyslP8v6E+sa7AGyyfirPFfOr+75g==";
       };
     };
     "@types/caseless-0.12.2" = {
@@ -751,13 +751,13 @@ let
         sha1 = "853cfa0f7cbe2fed5de20326b8dd581035f6e2f0";
       };
     };
-    "dayjs-1.9.6" = {
+    "dayjs-1.9.7" = {
       name = "dayjs";
       packageName = "dayjs";
-      version = "1.9.6";
+      version = "1.9.7";
       src = fetchurl {
-        url = "https://registry.npmjs.org/dayjs/-/dayjs-1.9.6.tgz";
-        sha512 = "HngNLtPEBWRo8EFVmHFmSXAjtCX8rGNqeXQI0Gh7wCTSqwaKgPIDqu9m07wABVopNwzvOeCb+2711vQhDlcIXw==";
+        url = "https://registry.npmjs.org/dayjs/-/dayjs-1.9.7.tgz";
+        sha512 = "IC877KBdMhBrCfBfJXHQlo0G8keZ0Opy7YIIq5QKtUbCuHMzim8S4PyiVK4YmihI3iOF9lhfUBW4AQWHTR5WHA==";
       };
     };
     "debug-3.1.0" = {
@@ -769,13 +769,13 @@ let
         sha512 = "OX8XqP7/1a9cqkxYw2yXss15f26NKWBpDXQd0/uK/KPqdQhxbPa994hnzjcE2VqQpDslf55723cKPUOGSmMY3g==";
       };
     };
-    "debug-4.3.1" = {
+    "debug-4.3.2" = {
       name = "debug";
       packageName = "debug";
-      version = "4.3.1";
+      version = "4.3.2";
       src = fetchurl {
-        url = "https://registry.npmjs.org/debug/-/debug-4.3.1.tgz";
-        sha512 = "doEwdvm4PCeK4K3RQN2ZC2BYUBaxwLARCqZmMjtF8a51J2Rb0xpVloFRnCODwqjpwnAoao4pelN8l3RJdv3gRQ==";
+        url = "https://registry.npmjs.org/debug/-/debug-4.3.2.tgz";
+        sha512 = "mOp8wKcvj7XxC78zLgw/ZA+6TSgkoE2C/ienthhRD298T7UNwAg9diBpLRxC0mOezLl4B0xV7M0cCO6P/O0Xhw==";
       };
     };
     "decompress-response-4.2.1" = {
@@ -1291,13 +1291,13 @@ let
         sha512 = "k/vGaX4/Yla3WzyMCvTQOXYeIHvqOKtnqBduzTHpzpQZzAskKMhZ2K+EnBiSM9zGSoIFeMpXKxa4dYeZIQqewQ==";
       };
     };
-    "ini-1.3.5" = {
+    "ini-1.3.8" = {
       name = "ini";
       packageName = "ini";
-      version = "1.3.5";
+      version = "1.3.8";
       src = fetchurl {
-        url = "https://registry.npmjs.org/ini/-/ini-1.3.5.tgz";
-        sha512 = "RZY5huIKCMRWDUqZlEi72f/lmXKMvuszcMBduliQ3nnWbx9X/ZBQO7DijMEYS9EhHBb2qacRUMtC7svLwe0lcw==";
+        url = "https://registry.npmjs.org/ini/-/ini-1.3.8.tgz";
+        sha512 = "JV/yugV2uzW5iMRSiZAyDtQd+nxtUnjeLt0acNdw98kKLrvuRVyB80tsREOE7yvGVgalhZ6RNXCmEHkUKBKxew==";
       };
     };
     "inquirer-7.3.3" = {
@@ -1453,13 +1453,13 @@ let
         sha1 = "47e63f7af55afa6f92e1500e690eb8b8529c099a";
       };
     };
-    "js-yaml-3.14.0" = {
+    "js-yaml-3.14.1" = {
       name = "js-yaml";
       packageName = "js-yaml";
-      version = "3.14.0";
+      version = "3.14.1";
       src = fetchurl {
-        url = "https://registry.npmjs.org/js-yaml/-/js-yaml-3.14.0.tgz";
-        sha512 = "/4IbIeHcD9VMHFqDR/gQ7EdZdLimOvW2DdcxFjdyyZ9NsbS+ccrXqVWDtab/lRl5AlUqmpBx8EhPaWR+OtY17A==";
+        url = "https://registry.npmjs.org/js-yaml/-/js-yaml-3.14.1.tgz";
+        sha512 = "okMH7OXXJ7YrN9Ok3/SXrnu4iX9yOk+25nqX4imS2npuvTYDmo/QEZoqwZkYaIDk3jVvBOTOIEgEhaLOynBS9g==";
       };
     };
     "jsbn-0.1.1" = {
@@ -1676,6 +1676,15 @@ let
       src = fetchurl {
         url = "https://registry.npmjs.org/lodash.templatesettings/-/lodash.templatesettings-4.2.0.tgz";
         sha512 = "stgLz+i3Aa9mZgnjr/O+v9ruKZsPsndy7qPZOchbqk2cnTU1ZaldKK+v7m54WoKIyxiuMZTKT2H81F8BeAc3ZQ==";
+      };
+    };
+    "lru-cache-6.0.0" = {
+      name = "lru-cache";
+      packageName = "lru-cache";
+      version = "6.0.0";
+      src = fetchurl {
+        url = "https://registry.npmjs.org/lru-cache/-/lru-cache-6.0.0.tgz";
+        sha512 = "Jo6dJ04CmSjuznwJSS3pUeWmd/H0ffTlkXXgwZi+eq1UCmqQwCh+eLsYOYCwY991i2Fah4h1BEMCx4qThGbsiA==";
       };
     };
     "merge2-1.4.1" = {
@@ -1930,13 +1939,13 @@ let
         sha1 = "2109adc7965887cfc05cbbd442cac8bfbb360863";
       };
     };
-    "object-treeify-1.1.29" = {
+    "object-treeify-1.1.30" = {
       name = "object-treeify";
       packageName = "object-treeify";
-      version = "1.1.29";
+      version = "1.1.30";
       src = fetchurl {
-        url = "https://registry.npmjs.org/object-treeify/-/object-treeify-1.1.29.tgz";
-        sha512 = "XnPIMyiv6fJeb/z3Bz+u43Fcw3C9fs1uoRITd8x3mau/rsSAUhx7qpIO10Q/dzJeMleJesccUSMiFx8FF+ruBA==";
+        url = "https://registry.npmjs.org/object-treeify/-/object-treeify-1.1.30.tgz";
+        sha512 = "BhsTZj8kbeCnyBKWuAgAakbGgrcVV/IJhUAGF25lOSwDZoHoDmnynUtXfyrrDn8A1Xy3G9k5uLP+V5onOOq3WA==";
       };
     };
     "once-1.4.0" = {
@@ -2335,13 +2344,13 @@ let
         sha512 = "sauaDf/PZdVgrLTNYHRtpXa1iRiKcaebiKQ1BJdpQlWH2lCvexQdX55snPFyK7QzpudqbCI0qXFfOasHdyNDGQ==";
       };
     };
-    "semver-7.3.2" = {
+    "semver-7.3.4" = {
       name = "semver";
       packageName = "semver";
-      version = "7.3.2";
+      version = "7.3.4";
       src = fetchurl {
-        url = "https://registry.npmjs.org/semver/-/semver-7.3.2.tgz";
-        sha512 = "OrOb32TeeambH6UrhtShmF7CRDqhL6/5XpPNp2DuRH6+9QLw/orhp72j87v8Qa1ScDkvrrBNpZcDejAirJmfXQ==";
+        url = "https://registry.npmjs.org/semver/-/semver-7.3.4.tgz";
+        sha512 = "tCfb2WLjqFAtXn4KEdxIhalnRtoKFN7nAwj0B3ZXCbQloV2tq5eDbcTmT68JJD3nRJq24/XgxtQKFIpQdtvmVw==";
       };
     };
     "set-blocking-2.0.0" = {
@@ -2704,13 +2713,13 @@ let
         sha1 = "5ae68177f192d4456269d108afa93ff8743f4f64";
       };
     };
-    "twilio-3.52.0" = {
+    "twilio-3.54.0" = {
       name = "twilio";
       packageName = "twilio";
-      version = "3.52.0";
+      version = "3.54.0";
       src = fetchurl {
-        url = "https://registry.npmjs.org/twilio/-/twilio-3.52.0.tgz";
-        sha512 = "G/2J4iva5T8080Mei3e24bCBxAemVe766iYQP+OonAzP7EUx9sv/hnNoNsM5u1vKkqKn7ER2uJ+mRI6bJrdEMA==";
+        url = "https://registry.npmjs.org/twilio/-/twilio-3.54.0.tgz";
+        sha512 = "jAM23itfMvpqgm033V55/iOq9vEXe3x5NwOSTFE9ekQWuula06D0iV4Fpj6JyflSbiHfvQqqn/+yPm4yitKHxQ==";
       };
     };
     "type-fest-0.11.0" = {
@@ -2920,6 +2929,15 @@ let
         sha512 = "Eux0i2QdDYKbdbA6AM6xE4m6ZTZr4G4xF9kahI2ukSEMCzwce2eX9WlTI5J3s+NU7hpasFsr8hWIONae7LluAQ==";
       };
     };
+    "yallist-4.0.0" = {
+      name = "yallist";
+      packageName = "yallist";
+      version = "4.0.0";
+      src = fetchurl {
+        url = "https://registry.npmjs.org/yallist/-/yallist-4.0.0.tgz";
+        sha512 = "3wdGidZyq5PB084XLES5TpOSRA3wjXAlIWMhum2kRcv/41Sn2emQ0dycQW4uZXLejwKvg6EsvbdlVL+FYEct7A==";
+      };
+    };
     "yarn-1.22.10" = {
       name = "yarn";
       packageName = "yarn";
@@ -2935,10 +2953,10 @@ in
   twilio-cli = nodeEnv.buildNodePackage {
     name = "twilio-cli";
     packageName = "twilio-cli";
-    version = "2.13.0";
+    version = "2.15.0";
     src = fetchurl {
-      url = "https://registry.npmjs.org/twilio-cli/-/twilio-cli-2.13.0.tgz";
-      sha512 = "LvZwsbDx2sTFS/R8S2ahykfOQFmAn3JyQOcZ4dxU4GcDc3cFopFSZEHE2rGF8oGDYAzAWx12K/DN3pl3TULlxg==";
+      url = "https://registry.npmjs.org/twilio-cli/-/twilio-cli-2.15.0.tgz";
+      sha512 = "wAHbZI8rnpKiCpG3j7jDe2t3IA4SApXx41JYw2am1GjQBD38k3NgDJr7ncwJ/FICXEtzERDMcFhcCBHxdiSTUQ==";
     };
     dependencies = [
       sources."@nodelib/fs.scandir-2.1.3"
@@ -2996,11 +3014,17 @@ in
           sources."escape-string-regexp-1.0.5"
         ];
       })
-      (sources."@oclif/plugin-autocomplete-0.2.0" // {
+      (sources."@oclif/plugin-autocomplete-0.2.1" // {
         dependencies = [
           sources."chalk-2.4.2"
           sources."escape-string-regexp-1.0.5"
-          sources."fs-extra-7.0.1"
+          sources."fs-extra-9.0.1"
+          (sources."jsonfile-6.1.0" // {
+            dependencies = [
+              sources."universalify-2.0.0"
+            ];
+          })
+          sources."universalify-1.0.0"
         ];
       })
       (sources."@oclif/plugin-help-2.2.3" // {
@@ -3045,7 +3069,7 @@ in
       sources."@sendgrid/helpers-7.4.0"
       sources."@sendgrid/mail-7.4.0"
       sources."@tokenizer/token-0.1.1"
-      (sources."@twilio/cli-core-5.12.0" // {
+      (sources."@twilio/cli-core-5.14.0" // {
         dependencies = [
           sources."fs-extra-9.0.1"
           (sources."jsonfile-6.1.0" // {
@@ -3140,8 +3164,8 @@ in
         ];
       })
       sources."dashdash-1.14.1"
-      sources."dayjs-1.9.6"
-      sources."debug-4.3.1"
+      sources."dayjs-1.9.7"
+      sources."debug-4.3.2"
       sources."decompress-response-4.2.1"
       (sources."decompress-zip-0.3.2" // {
         dependencies = [
@@ -3216,7 +3240,7 @@ in
       sources."ignore-5.1.8"
       sources."indent-string-4.0.0"
       sources."inherits-2.0.4"
-      sources."ini-1.3.5"
+      sources."ini-1.3.8"
       (sources."inquirer-7.3.3" // {
         dependencies = [
           sources."ansi-regex-5.0.0"
@@ -3236,7 +3260,7 @@ in
       sources."isarray-1.0.0"
       sources."isexe-2.0.0"
       sources."isstream-0.1.2"
-      sources."js-yaml-3.14.0"
+      sources."js-yaml-3.14.1"
       sources."jsbn-0.1.1"
       sources."json-parse-better-errors-1.0.2"
       sources."json-schema-0.2.3"
@@ -3268,6 +3292,7 @@ in
       sources."lodash.once-4.1.1"
       sources."lodash.template-4.5.0"
       sources."lodash.templatesettings-4.2.0"
+      sources."lru-cache-6.0.0"
       sources."merge2-1.4.1"
       sources."micromatch-4.0.2"
       sources."mime-db-1.44.0"
@@ -3302,7 +3327,7 @@ in
       sources."number-is-nan-1.0.1"
       sources."oauth-sign-0.9.0"
       sources."object-assign-4.1.1"
-      sources."object-treeify-1.1.29"
+      sources."object-treeify-1.1.30"
       sources."once-1.4.0"
       sources."onetime-5.1.2"
       sources."os-tmpdir-1.0.2"
@@ -3353,7 +3378,7 @@ in
       sources."safe-buffer-5.2.1"
       sources."safer-buffer-2.1.2"
       sources."scmp-2.1.0"
-      sources."semver-7.3.2"
+      sources."semver-7.3.4"
       sources."set-blocking-2.0.0"
       sources."shebang-command-1.2.0"
       sources."shebang-regex-1.0.0"
@@ -3410,7 +3435,7 @@ in
       sources."tsv-0.2.0"
       sources."tunnel-agent-0.6.0"
       sources."tweetnacl-0.14.5"
-      sources."twilio-3.52.0"
+      sources."twilio-3.54.0"
       sources."type-fest-0.11.0"
       sources."typedarray-to-buffer-3.1.5"
       sources."universalify-0.1.2"
@@ -3444,6 +3469,7 @@ in
       })
       sources."wrappy-1.0.2"
       sources."xmlbuilder-13.0.2"
+      sources."yallist-4.0.0"
       sources."yarn-1.22.10"
     ];
     buildInputs = globalBuildInputs;
