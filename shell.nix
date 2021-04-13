@@ -3,7 +3,7 @@
 pkgs.mkShell {
   buildInputs = with pkgs;
     [
-      nodejs-10_x
+      nodejs-12_x
 
       # Globally installed NPM packages (direnv scoped)
       pkgs.twilio-cli
