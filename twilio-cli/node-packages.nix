@@ -175,13 +175,13 @@ let
         sha512 = "XO6INPbZCxdprl+9qa/AAbFFOMzzwqYxpjPgLICrMD6C2FCw6qfJOPcBk6JqqPLSaZ/Qx87qn4rpPmPMwaAK6w==";
       };
     };
-    "@twilio/cli-core-5.20.0" = {
+    "@twilio/cli-core-5.21.0" = {
       name = "_at_twilio_slash_cli-core";
       packageName = "@twilio/cli-core";
-      version = "5.20.0";
+      version = "5.21.0";
       src = fetchurl {
-        url = "https://registry.npmjs.org/@twilio/cli-core/-/cli-core-5.20.0.tgz";
-        sha512 = "02lLD6sUKj7BYjVBlu03cFgdEEt1nwBlfQ3m63gO6Scz17K0Odt7RWH5bO9H5JRextCNSdvw77whRhZUhWbSvg==";
+        url = "https://registry.npmjs.org/@twilio/cli-core/-/cli-core-5.21.0.tgz";
+        sha512 = "0ym48rNPIoHY10nPYYbt/+LzyUxUflRekXBqFjSqht9f+gd/quh22RT+x5NZdVide2tMx3DzpOryuPraHzojjQ==";
       };
     };
     "@types/caseless-0.12.2" = {
@@ -1372,13 +1372,13 @@ let
         sha1 = "77c99840527aa8ecb1a8ba697b80645a7a926a9d";
       };
     };
-    "is-docker-2.1.1" = {
+    "is-docker-2.2.1" = {
       name = "is-docker";
       packageName = "is-docker";
-      version = "2.1.1";
+      version = "2.2.1";
       src = fetchurl {
-        url = "https://registry.npmjs.org/is-docker/-/is-docker-2.1.1.tgz";
-        sha512 = "ZOoqiXfEwtGknTiuDEy8pN2CfE3TxMHprvNer1mXiqwkOT77Rw3YVrUQ52EqAOU3QAWDQ+bQdx7HJzrv7LS2Hw==";
+        url = "https://registry.npmjs.org/is-docker/-/is-docker-2.2.1.tgz";
+        sha512 = "F+i2BKsFrH66iaUFc0woD8sLy8getkwTwtOBjvs56Cx4CgJDeKQeqfz8wAYiSb8JOprWhHH5p77PbmYCvvUuXQ==";
       };
     };
     "is-extglob-2.1.1" = {
@@ -1615,13 +1615,13 @@ let
         sha512 = "YHlZCB6lMTllWDtSPHz/ZXTsi8S00usEV6v1tjq8tOUZzw7DpSDWVXjXDre6ed1w/pd495ODpHZYSdkRTsa0HA==";
       };
     };
-    "keytar-6.0.1" = {
+    "keytar-7.6.0" = {
       name = "keytar";
       packageName = "keytar";
-      version = "6.0.1";
+      version = "7.6.0";
       src = fetchurl {
-        url = "https://registry.npmjs.org/keytar/-/keytar-6.0.1.tgz";
-        sha512 = "1Ihpf2tdM3sLwGMkYHXYhVC/hx5BDR7CWFL4IrBA3IDZo0xHhS2nM+tU9Y+u/U7okNfbVkwmKsieLkcWRMh93g==";
+        url = "https://registry.npmjs.org/keytar/-/keytar-7.6.0.tgz";
+        sha512 = "H3cvrTzWb11+iv0NOAnoNAPgEapVZnYLVHZQyxmh7jdmVfR/c0jNNFEZ6AI38W/4DeTGTaY66ZX4Z1SbfKPvCQ==";
       };
     };
     "load-json-file-5.3.0" = {
@@ -1750,31 +1750,31 @@ let
         sha512 = "8q7VEgMJW4J8tcfVPy8g09NcQwZdbwFEqhe/WZkoIzjn/3TGDwtOCYtXGxA3O8tPzpczCCDgv+P2P5y00ZJOOg==";
       };
     };
-    "micromatch-4.0.2" = {
+    "micromatch-4.0.4" = {
       name = "micromatch";
       packageName = "micromatch";
-      version = "4.0.2";
+      version = "4.0.4";
       src = fetchurl {
-        url = "https://registry.npmjs.org/micromatch/-/micromatch-4.0.2.tgz";
-        sha512 = "y7FpHSbMUMoyPbYUSzO6PaZ6FyRnQOpHuKwbo1G+Knck95XVU4QAiKdGEnj5wwoS7PlOgthX/09u5iFJ+aYf5Q==";
+        url = "https://registry.npmjs.org/micromatch/-/micromatch-4.0.4.tgz";
+        sha512 = "pRmzw/XUcwXGpD9aI9q/0XOwLNygjETJ8y0ao0wdqprrzDa4YnxLcz7fQRZr8voh8V10kGhABbNcHVk5wHgWwg==";
       };
     };
-    "mime-db-1.46.0" = {
+    "mime-db-1.47.0" = {
       name = "mime-db";
       packageName = "mime-db";
-      version = "1.46.0";
+      version = "1.47.0";
       src = fetchurl {
-        url = "https://registry.npmjs.org/mime-db/-/mime-db-1.46.0.tgz";
-        sha512 = "svXaP8UQRZ5K7or+ZmfNhg2xX3yKDMUzqadsSqi4NCH/KomcH75MAMYAGVlvXn4+b/xOPhS3I2uHKRUzvjY7BQ==";
+        url = "https://registry.npmjs.org/mime-db/-/mime-db-1.47.0.tgz";
+        sha512 = "QBmA/G2y+IfeS4oktet3qRZ+P5kPhCKRXxXnQEudYqUaEioAU1/Lq2us3D/t1Jfo4hE9REQPrbB7K5sOczJVIw==";
       };
     };
-    "mime-types-2.1.29" = {
+    "mime-types-2.1.30" = {
       name = "mime-types";
       packageName = "mime-types";
-      version = "2.1.29";
+      version = "2.1.30";
       src = fetchurl {
-        url = "https://registry.npmjs.org/mime-types/-/mime-types-2.1.29.tgz";
-        sha512 = "Y/jMt/S5sR9OaqteJtslsFZKWOIIqMACsJSiHghlCAyhf7jfVYjKBmLiX8OgpWeW+fjJ2b+Az69aPFPkUOY6xQ==";
+        url = "https://registry.npmjs.org/mime-types/-/mime-types-2.1.30.tgz";
+        sha512 = "crmjA4bLtR8m9qLpHvgxSChT+XoSlZi8J4n/aIdn3z92e/U47Z0V/yl+Wh9W046GgFVAmoNR/fmdbZYcSSIUeg==";
       };
     };
     "mimic-fn-2.1.0" = {
@@ -1802,15 +1802,6 @@ let
       src = fetchurl {
         url = "https://registry.npmjs.org/minimist/-/minimist-1.2.5.tgz";
         sha512 = "FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==";
-      };
-    };
-    "mkdirp-0.5.5" = {
-      name = "mkdirp";
-      packageName = "mkdirp";
-      version = "0.5.5";
-      src = fetchurl {
-        url = "https://registry.npmjs.org/mkdirp/-/mkdirp-0.5.5.tgz";
-        sha512 = "NKmAlESf6jMGym1++R0Ra7wvhV+wFW63FaSOFPwRahvea0gMUcGUhVeAg/0BC0wiv9ih5NYPB1Wn1UEI1/L+xQ==";
       };
     };
     "mkdirp-classic-0.5.3" = {
@@ -2092,13 +2083,13 @@ let
         sha1 = "6309f4e0e5fa913ec1c69307ae364b4b377c9e7b";
       };
     };
-    "picomatch-2.2.2" = {
+    "picomatch-2.2.3" = {
       name = "picomatch";
       packageName = "picomatch";
-      version = "2.2.2";
+      version = "2.2.3";
       src = fetchurl {
-        url = "https://registry.npmjs.org/picomatch/-/picomatch-2.2.2.tgz";
-        sha512 = "q0M/9eZHzmr0AulXyPwNfZjtwZ/RBZlbN3K3CErVrk50T2ASYI7Bye0EvekFY3IP1Nt2DHu0re+V2ZHIpMkuWg==";
+        url = "https://registry.npmjs.org/picomatch/-/picomatch-2.2.3.tgz";
+        sha512 = "KpELjfwcCDUb9PeigTs2mBJzXUPzAuP2oPcA989He8Rte0+YUAjw1JVedDhuTKPkHjSYzMN3npC9luThGYEKdg==";
       };
     };
     "pify-4.0.1" = {
@@ -2119,13 +2110,13 @@ let
         sha1 = "ceacfdab4abf353d7a0f2aaa2c1fc7b3f9413ba3";
       };
     };
-    "prebuild-install-5.3.4" = {
+    "prebuild-install-6.1.1" = {
       name = "prebuild-install";
       packageName = "prebuild-install";
-      version = "5.3.4";
+      version = "6.1.1";
       src = fetchurl {
-        url = "https://registry.npmjs.org/prebuild-install/-/prebuild-install-5.3.4.tgz";
-        sha512 = "AkKN+pf4fSEihjapLEEj8n85YIw/tN6BQqkhzbDc0RvEZGdkpJBGMUYx66AAMcPG2KzmPQS7Cm16an4HVBRRMA==";
+        url = "https://registry.npmjs.org/prebuild-install/-/prebuild-install-6.1.1.tgz";
+        sha512 = "M+cKwofFlHa5VpTWub7GLg5RLcunYIcLqtY5pKcls/u7xaAb8FrXZ520qY8rkpYy5xw90tYCyMO0MP5ggzR3Sw==";
       };
     };
     "process-nextick-args-2.0.1" = {
@@ -2353,13 +2344,13 @@ let
         sha512 = "5l4VyZR86LZ/lDxZTR6jqL8AFE2S0IFLMP26AbjsLVADxHdhB/c0GUsH+y39UfCi3dzz8OlQuPmnaJOMoDHQBA==";
       };
     };
-    "rxjs-6.6.6" = {
+    "rxjs-6.6.7" = {
       name = "rxjs";
       packageName = "rxjs";
-      version = "6.6.6";
+      version = "6.6.7";
       src = fetchurl {
-        url = "https://registry.npmjs.org/rxjs/-/rxjs-6.6.6.tgz";
-        sha512 = "/oTwee4N4iWzAMAL9xdGKjkEHmIwupR3oXbQjCKywF1BeFohswF3vZdogbmEF6pZkOsXTzWkrZszrWpQTByYVg==";
+        url = "https://registry.npmjs.org/rxjs/-/rxjs-6.6.7.tgz";
+        sha512 = "hTdwr+7yYNIT5n4AMYp85KA6yw2Va0FLa3Rguvbpa4W3I5xynaBZo41cM3XM+4Q6fRMj3sBYIR1VAmZMXYJvRQ==";
       };
     };
     "safe-buffer-5.1.2" = {
@@ -2650,13 +2641,13 @@ let
         sha512 = "qpCAvRl9stuOHveKsn7HncJRvv501qIacKzQlO/+Lwxc9+0q2wLyv4Dfvt80/DPn2pqOBsJdDiogXGR9+OvwRw==";
       };
     };
-    "supports-hyperlinks-2.1.0" = {
+    "supports-hyperlinks-2.2.0" = {
       name = "supports-hyperlinks";
       packageName = "supports-hyperlinks";
-      version = "2.1.0";
+      version = "2.2.0";
       src = fetchurl {
-        url = "https://registry.npmjs.org/supports-hyperlinks/-/supports-hyperlinks-2.1.0.tgz";
-        sha512 = "zoE5/e+dnEijk6ASB6/qrK+oYdm2do1hjoLWrqUC/8WEIW1gbxFcKuBof7sW8ArN6e+AYvsE8HBGiVRWL/F5CA==";
+        url = "https://registry.npmjs.org/supports-hyperlinks/-/supports-hyperlinks-2.2.0.tgz";
+        sha512 = "6sXEzV5+I5j8Bmq9/vUphGRM/RJNT9SCURJLjwfOg51heRtguGWDzcaBlgAzKhQa0EVNpPEKzQuBwZ8S8WaCeQ==";
       };
     };
     "tar-fs-2.1.1" = {
@@ -2749,13 +2740,13 @@ let
         sha512 = "Xni35NKzjgMrwevysHTCArtLDpPvye8zV/0E4EyYn43P7/7qvQwPh9BGkHewbMulVntbigmcT7rdX3BNo9wRJg==";
       };
     };
-    "tslib-2.1.0" = {
+    "tslib-2.2.0" = {
       name = "tslib";
       packageName = "tslib";
-      version = "2.1.0";
+      version = "2.2.0";
       src = fetchurl {
-        url = "https://registry.npmjs.org/tslib/-/tslib-2.1.0.tgz";
-        sha512 = "hcVC3wYEziELGGmEEXue7D75zbwIIVUMWAVbHItGPx0ziyXxrOMQx4rQEVEV45Ut/1IotuEvwqPopzIOkDMf0A==";
+        url = "https://registry.npmjs.org/tslib/-/tslib-2.2.0.tgz";
+        sha512 = "gS9GVHRU+RGn5KQM2rllAlR3dU6m7AcpJKdtH8gFvQiC4Otgk98XnmMU+nZenHt/+VhnBPWwgrJsyrdcw6i23w==";
       };
     };
     "tsv-0.2.0" = {
@@ -2785,13 +2776,13 @@ let
         sha1 = "5ae68177f192d4456269d108afa93ff8743f4f64";
       };
     };
-    "twilio-3.59.0" = {
+    "twilio-3.60.0" = {
       name = "twilio";
       packageName = "twilio";
-      version = "3.59.0";
+      version = "3.60.0";
       src = fetchurl {
-        url = "https://registry.npmjs.org/twilio/-/twilio-3.59.0.tgz";
-        sha512 = "2pRNZXBYm+8e2TrljE3xkUs8YSamX9RGhO9TLN+OjbxYNOXybviM+SQ+FZyHVJdoYlbu68/iF2fUkg6DLCQGeA==";
+        url = "https://registry.npmjs.org/twilio/-/twilio-3.60.0.tgz";
+        sha512 = "f8Ts9rfrkycjgnlmu1TzLigoAbrAsIoEnfPoZl+kf94FbBI3QXTUVWhvYj+NrCwLjOewDxrV8qIea1IcyVbG2Q==";
       };
     };
     "type-fest-0.21.3" = {
@@ -2920,15 +2911,6 @@ let
         sha512 = "HxJdYWq1MTIQbJ3nw0cqssHoTNU267KlrDuGZ1WYlxDStUtKUhOaJmh112/TZmHxxUfuJqPXSOm7tDyas0OSIQ==";
       };
     };
-    "which-pm-runs-1.0.0" = {
-      name = "which-pm-runs";
-      packageName = "which-pm-runs";
-      version = "1.0.0";
-      src = fetchurl {
-        url = "https://registry.npmjs.org/which-pm-runs/-/which-pm-runs-1.0.0.tgz";
-        sha1 = "670b3afbc552e0b55df6b7780ca74615f23ad1cb";
-      };
-    };
     "wide-align-1.1.3" = {
       name = "wide-align";
       packageName = "wide-align";
@@ -3016,10 +2998,10 @@ in
   twilio-cli = nodeEnv.buildNodePackage {
     name = "twilio-cli";
     packageName = "twilio-cli";
-    version = "2.20.0";
+    version = "2.21.0";
     src = fetchurl {
-      url = "https://registry.npmjs.org/twilio-cli/-/twilio-cli-2.20.0.tgz";
-      sha512 = "U+vsft2ewSZmUzVhA9pxFhCLTyY9KRInxp6GPHicl01oB7ac8MwaIioVukguugtbQorlxfYtKpNqFJFsabI8eA==";
+      url = "https://registry.npmjs.org/twilio-cli/-/twilio-cli-2.21.0.tgz";
+      sha512 = "eKS4MwWkhhqdr/ql3Jg9GG7ACfn+OQ6rvN+juXx4LKD96p5uvHRSrR6Lpf6f3oFcPk97bvNksz7M7hEiYtGBBw==";
     };
     dependencies = [
       sources."@nodelib/fs.scandir-2.1.4"
@@ -3059,7 +3041,7 @@ in
       })
       (sources."@oclif/config-1.17.0" // {
         dependencies = [
-          sources."tslib-2.1.0"
+          sources."tslib-2.2.0"
         ];
       })
       (sources."@oclif/errors-1.3.4" // {
@@ -3110,7 +3092,7 @@ in
         dependencies = [
           sources."fs-extra-9.1.0"
           sources."jsonfile-6.1.0"
-          sources."tslib-2.1.0"
+          sources."tslib-2.2.0"
           sources."universalify-2.0.0"
         ];
       })
@@ -3127,7 +3109,7 @@ in
       sources."@sendgrid/helpers-7.4.2"
       sources."@sendgrid/mail-7.4.2"
       sources."@tokenizer/token-0.1.1"
-      (sources."@twilio/cli-core-5.20.0" // {
+      (sources."@twilio/cli-core-5.21.0" // {
         dependencies = [
           sources."fs-extra-9.1.0"
           sources."jsonfile-6.1.0"
@@ -3195,7 +3177,7 @@ in
           sources."color-name-1.1.4"
           sources."strip-ansi-6.0.0"
           sources."supports-color-7.2.0"
-          sources."tslib-2.1.0"
+          sources."tslib-2.2.0"
         ];
       })
       sources."cli-width-3.0.0"
@@ -3304,7 +3286,7 @@ in
         ];
       })
       sources."is-arrayish-0.2.1"
-      sources."is-docker-2.1.1"
+      sources."is-docker-2.2.1"
       sources."is-extglob-2.1.1"
       sources."is-fullwidth-code-point-3.0.0"
       sources."is-glob-4.0.1"
@@ -3331,7 +3313,7 @@ in
       sources."jsprim-1.4.1"
       sources."jwa-1.4.1"
       sources."jws-3.2.2"
-      sources."keytar-6.0.1"
+      sources."keytar-7.6.0"
       (sources."load-json-file-5.3.0" // {
         dependencies = [
           sources."type-fest-0.3.1"
@@ -3350,13 +3332,12 @@ in
       sources."lodash.templatesettings-4.2.0"
       sources."lru-cache-6.0.0"
       sources."merge2-1.4.1"
-      sources."micromatch-4.0.2"
-      sources."mime-db-1.46.0"
-      sources."mime-types-2.1.29"
+      sources."micromatch-4.0.4"
+      sources."mime-db-1.47.0"
+      sources."mime-types-2.1.30"
       sources."mimic-fn-2.1.0"
       sources."mimic-response-2.1.0"
       sources."minimist-1.2.5"
-      sources."mkdirp-0.5.5"
       sources."mkdirp-classic-0.5.3"
       sources."mkpath-0.1.0"
       sources."moment-2.29.1"
@@ -3398,10 +3379,10 @@ in
       sources."path-type-4.0.0"
       sources."peek-readable-3.1.3"
       sources."performance-now-2.1.0"
-      sources."picomatch-2.2.2"
+      sources."picomatch-2.2.3"
       sources."pify-4.0.1"
       sources."pop-iterate-1.0.1"
-      sources."prebuild-install-5.3.4"
+      sources."prebuild-install-6.1.1"
       sources."process-nextick-args-2.0.1"
       sources."psl-1.8.0"
       sources."pump-3.0.0"
@@ -3432,7 +3413,7 @@ in
       sources."rootpath-0.1.2"
       sources."run-async-2.4.1"
       sources."run-parallel-1.2.0"
-      sources."rxjs-6.6.6"
+      sources."rxjs-6.6.7"
       sources."safe-buffer-5.2.1"
       sources."safer-buffer-2.1.2"
       sources."scmp-2.1.0"
@@ -3468,7 +3449,7 @@ in
           sources."has-flag-3.0.0"
         ];
       })
-      (sources."supports-hyperlinks-2.1.0" // {
+      (sources."supports-hyperlinks-2.2.0" // {
         dependencies = [
           sources."supports-color-7.2.0"
         ];
@@ -3494,7 +3475,7 @@ in
       sources."tsv-0.2.0"
       sources."tunnel-agent-0.6.0"
       sources."tweetnacl-0.14.5"
-      sources."twilio-3.59.0"
+      sources."twilio-3.60.0"
       sources."type-fest-0.21.3"
       sources."typedarray-to-buffer-3.1.5"
       sources."universalify-0.1.2"
@@ -3507,7 +3488,6 @@ in
       sources."wcwidth-1.0.1"
       sources."weak-map-1.0.5"
       sources."which-1.3.1"
-      sources."which-pm-runs-1.0.0"
       (sources."wide-align-1.1.3" // {
         dependencies = [
           sources."ansi-regex-3.0.0"
